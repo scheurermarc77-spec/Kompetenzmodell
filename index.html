@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#173B57">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Kompetenzen">
+  <title>Kompetenzmodell Zyklus 3</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="app-shell">
+    <header class="app-header">
+      <div class="safe-top"></div>
+      <div class="topbar">
+        <button id="backBtn" class="icon-btn hidden" aria-label="Zurück">
+          <span aria-hidden="true">‹</span>
+        </button>
+        <button id="brandBtn" class="brand" aria-label="Zur Startseite">
+          <span class="brand-mark">K</span>
+          <span class="brand-text">
+            <strong>Kompetenzmodell</strong>
+            <small>Zyklus 3</small>
+          </span>
+        </button>
+        <button id="homeBtn" class="icon-btn hidden" aria-label="Startseite">
+          <span aria-hidden="true">⌂</span>
+        </button>
+      </div>
+      <div id="progress" class="progress hidden">
+        <span></span><span></span><span></span><span></span>
+      </div>
+    </header>
+
+    <main id="main" class="main" aria-live="polite"></main>
+
+    <footer class="footer">
+      <span>Überfachliche Kompetenzen · Zyklus 3</span>
+    </footer>
+  </div>
+
+  <noscript>Diese App benötigt JavaScript.</noscript>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
