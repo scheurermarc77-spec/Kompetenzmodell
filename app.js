@@ -40,9 +40,14 @@
     setNav();
     main.innerHTML = `
       <section class="hero">
-        <p class="eyebrow">Stadtschulen und Betreuung Zug</p>
+        <p class="eyebrow">Kanton Zug · Kompetenzmodell</p>
         <h1>${escapeHtml(model.title)}</h1>
         <p class="lead">${escapeHtml(model.subtitle)}</p>
+        <div class="source-card">
+          <strong>Kompetenzmodell des Kantons Zug</strong>
+          <span>Gemeinsam von Zuger Lehrpersonen erarbeitet und durch das Amt für gemeindliche Schulen begleitet.</span>
+          <small>App-Umsetzung: Stadtschulen und Betreuung Zug</small>
+        </div>
       </section>
       <div class="grid domains">
         ${model.domains.map((d,i) => {

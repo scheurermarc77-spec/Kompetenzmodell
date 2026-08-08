@@ -82,3 +82,8 @@ h2{font-size:23px;line-height:1.18;margin:0 0 8px;letter-spacing:-.018em}
   h1{font-size:36px}
 }
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+
+.source-card{margin-top:16px;padding:13px 14px;border-radius:16px;background:#EAF2F8;border:1px solid #D2E2EE;display:flex;flex-direction:column;gap:4px}
+.source-card strong{font-size:14px;color:var(--navy)}
+.source-card span{font-size:12px;line-height:1.45;color:var(--muted)}
+.source-card small{font-size:11px;color:#7B8D9A;margin-top:2px}

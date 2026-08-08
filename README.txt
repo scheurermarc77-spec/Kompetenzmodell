@@ -29,3 +29,9 @@ HOCHLADEN:
 - Wichtig: alle bisherigen Dateien ersetzen.
 - Die Datei index.html muss im Hauptverzeichnis liegen.
 - Der Ordner icons muss vollständig mit hochgeladen werden.
+
+
+HERKUNFT DES KOMPETENZMODELLS:
+Grundlage der App ist das Kompetenzmodell des Kantons Zug.
+Das Modell wurde gemeinsam von Zuger Lehrpersonen erarbeitet und durch das Amt für gemeindliche Schulen begleitet.
+App-Umsetzung: Stadtschulen und Betreuung Zug.
