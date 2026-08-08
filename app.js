@@ -40,7 +40,7 @@
     setNav();
     main.innerHTML = `
       <section class="hero">
-        <p class="eyebrow">Stadtschulen und Betreuung Zug · Zyklus 3</p>
+        <p class="eyebrow">Stadtschulen und Betreuung Zug</p>
         <h1>${escapeHtml(model.title)}</h1>
         <p class="lead">${escapeHtml(model.subtitle)}</p>
       </section>
