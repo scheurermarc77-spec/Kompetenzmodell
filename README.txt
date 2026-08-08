@@ -22,3 +22,10 @@ Hauptbereich > Teilkompetenz > Kompetenzbeschreibung > Indikatoren
 
 Hinweis:
 Eine PWA kann auf dem iPhone nicht direkt aus einer ZIP-Datei installiert werden. Sie muss zuerst über HTTPS erreichbar sein.
+
+
+HOCHLADEN:
+- Lade den gesamten Inhalt der ZIP-Datei in dein GitHub-Pages-Repository hoch.
+- Wichtig: alle bisherigen Dateien ersetzen.
+- Die Datei index.html muss im Hauptverzeichnis liegen.
+- Der Ordner icons muss vollständig mit hochgeladen werden.
