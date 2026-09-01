@@ -46,7 +46,6 @@
         <div class="source-card">
           <strong>Kompetenzmodell des Kantons Zug</strong>
           <span>Gemeinsam von Zuger Lehrpersonen erarbeitet und durch das Amt für gemeindliche Schulen begleitet.</span>
-          <small>App-Umsetzung: Stadtschulen und Betreuung Zug</small>
         </div>
       </section>
       <div class="grid domains">

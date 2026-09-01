@@ -1,4 +1,4 @@
-EINSATZ: Stadtschulen und Betreuung Zug
+EINSATZ: Kompetenzmodell Zyklus 3 – Web-App
 
 KOMPETENZMODELL ZYKLUS 3 – IPHONE WEB-APP
 
@@ -34,4 +34,3 @@ HOCHLADEN:
 HERKUNFT DES KOMPETENZMODELLS:
 Grundlage der App ist das Kompetenzmodell des Kantons Zug.
 Das Modell wurde gemeinsam von Zuger Lehrpersonen erarbeitet und durch das Amt für gemeindliche Schulen begleitet.
-App-Umsetzung: Stadtschulen und Betreuung Zug.
