@@ -209,13 +209,13 @@ window.COMPETENCE_MODEL = {
               "indicators": [
                 "stellt anderen Fragen zu ihren Meinungen.",
                 "erklärt, wie die Meinung entstanden ist.",
-                "verschafft sich einen breiten Ueberblick über das Thema."
+                "verschafft sich einen breiten Überblick über das Thema."
               ]
             },
             {
               "statement": "können sich für die eigene Meinung einsetzen und sie vortragen.",
               "indicators": [
-                "getraut sich gegenüber Mitschülerinnenn und Mitschülern ihre, seine eigene Meinung zu vertreten.",
+                "getraut sich gegenüber Mitschülerinnen und Mitschülern ihre, seine eigene Meinung zu vertreten.",
                 "vertritt in Konflikten ihren, seinen Standpunkt.",
                 "begründet seinen, ihren abweichenden Standpunkt.",
                 "legen die eigene Sicht begründet und mit Argumente versehen sachlich dar.",
@@ -356,7 +356,7 @@ window.COMPETENCE_MODEL = {
               "statement": "können sich in andere Menschen hineinversetzen, -fühlen.",
               "indicators": [
                 "äussert sich dahingehend, dass Empathie erkennbar, hörbar ist (z. B. \"es tut mir leid.\").",
-                "versetzt sich in die Perspektive des Gegenübers und bezieht diese in Konflitklösungen ein."
+                "versetzt sich in die Perspektive des Gegenübers und bezieht diese in Konfliktlösungen ein."
               ]
             },
             {
@@ -382,11 +382,11 @@ window.COMPETENCE_MODEL = {
                 "findet bei kleinen Konflikten ohne die Hilfe der Lehrperson Lösungen/Konsens mit dem Gegenüber.",
                 "formuliert Ich-Botschaften.",
                 "formuliert konkrete Verbesserungsvorschläge.",
-                "stetzt vereinbarte Lösungsvorschläge um.",
+                "setzt vereinbarte Lösungsvorschläge um.",
                 "bietet Hilfe an, wenn es anderen nicht so gut geht.",
                 "lässt sich auf gewaltfreie Konfliktlösungen ein (z. B. direktes Gespräch, Mediation durch 3. Person, Termin für 'runden Tisch' abwarten).",
                 "löst Konflikte gewaltfrei.",
-                "trägt in einer Konfliktsituation aktiv zur Konsenfindung bei (macht Lösungsvorschläge, sucht Alternativen, vermittelt zwischen Vorschlägen).",
+                "trägt in einer Konfliktsituation aktiv zur Konsensfindung bei (macht Lösungsvorschläge, sucht Alternativen, vermittelt zwischen Vorschlägen).",
                 "wehrt sich angemessen, wenn er, sie sich ungerecht behandelt fühlt."
               ]
             },
@@ -447,8 +447,8 @@ window.COMPETENCE_MODEL = {
                 "versetzt sich in andere hinein, bringt Empathie auf.",
                 "akzeptiert, dass Menschen bezüglich Aussehen, Kompetenzen, Wertvorstellungen, Sprache, Interessen, Hautfarbe verschieden sind.",
                 "zeigt Interesse für andere Kulturen und andere Lebensformen.",
-                "erkennt Unterschiede zwischen eigenen Lebensformen und den Lebensweisen anderer Menschen, bennent Unterschiede ohne zu werten.",
-                "akzeptiert, dass auch \"anders sein\" in Ordung ist."
+                "erkennt Unterschiede zwischen eigenen Lebensformen und den Lebensweisen anderer Menschen, benennt Unterschiede ohne zu werten.",
+                "akzeptiert, dass auch \"anders sein\" in Ordnung ist."
               ]
             },
             {
@@ -488,10 +488,10 @@ window.COMPETENCE_MODEL = {
                 "reflektiert angewendete Lernstrategien und passt sie individuell an.",
                 "teilt die zur Verfügung stehende Zeit ein (Zeitmanagement).",
                 "wendet verschiedene Möglichkeiten eines Lernprodukts (Graf-iz, Lernkärtchen, Mindmap, Merksatz, Eselsbrücken, Lernplakat, Spickzettel,...) an, um behandelte Inhalte für sich aufzubereiten.",
-                "benennt oder erklärt, wo er/sie nachschauen kann,darf bzw. wo er/sie Hilfe findet.",
+                "benennt oder erklärt, wo er/sie nachschauen kann, darf bzw. wo er/sie Hilfe findet.",
                 "gibt Lerninhalte in eigenen Worten wieder.",
                 "wendet Merksprüche/Eselsbrücken an (z.B. \"Nie Ohne Seife Waschen\").",
-                "wendet bereits erlente Lernstrategien zur Bewältigung einer Herausforderung an.",
+                "wendet bereits erlernte Lernstrategien zur Bewältigung einer Herausforderung an.",
                 "kennt unterschiedliche Strategien, wie er, sie bei Fragen und Unklarheiten vorgehen kann.",
                 "überträgt Lernstrategien auf weitere Fächer.",
                 "hat ein persönliches Repertoire an Lernstrategien.",
@@ -602,7 +602,7 @@ window.COMPETENCE_MODEL = {
               "statement": "können die Qualität und Bedeutung der gesammelten und strukturierten Informationen abschätzen und beurteilen.",
               "indicators": [
                 "wendet Strategien an, um Falschnachrichten zu erkennen.",
-                "stellt kritische Rückfragen zu Inforamtionen."
+                "stellt kritische Rückfragen zu Informationen."
               ]
             },
             {
